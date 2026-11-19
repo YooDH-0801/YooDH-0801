@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodh0801&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yoodh0801)](https://git.io/streak-stats)
 
+##참고 사이트
+https://github.com/justinyoo/justinyoo/blob/main/README.md?plain=1
+https://github.com/yyoungl/yyoungl/blob/main/README.md?plain=1
