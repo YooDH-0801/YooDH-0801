@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://vercel.app)
-yoodh0801
-&show_icons=true&theme=tokyonight)
+![Unity](https://shields.io)
+![C#](https://shields.io)
 
-![Top Langs](https://vercel.app)
-yoodh0801
-&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoodh0801)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoodh0801&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yoodh0801)](https://git.io/streak-stats)
 
-![GitHub Streak](https://demolab.com)
-yoodh0801
-&show_icons=true&theme=tokyonight)
